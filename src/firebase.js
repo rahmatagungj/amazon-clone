@@ -6,9 +6,9 @@ const firebaseApp = firebase.initializeApp({
   authDomain: "",
   projectId: "",
   storageBucket: "",
-  messagingSenderId: "903329302770",
-  appId: "1:903329302770:web:75ba1f8940fff3077de86b",
-  measurementId: "G-1HFYB1PGGW",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "G-",
 });
 
 const db = firebase.firestore();
